@@ -1,0 +1,8 @@
+urllib, fiddler, scrapy, pymysql, numpy, matplotlib, pandas, sklearn, Gensim, pillow, keras
+
+In PyCharm, Scrapy framework is used to write Redis distributed network crawler. 
+Proxy IP pool and server camouflage technology are used in crawler design. 
+To crawl Taobao commodity information and write the crawled data asynchronously into MySQL database using Twisted framework. 
+Then in IDLE, pandas module is used to read the data in the database, numpy and Matplotlib modules are used to realize data analysis and 
+visualization. Finally, sklearn, Gensim and keras modules are used to realize data classification, 
+clustering operation and commodity correlation analysis.
